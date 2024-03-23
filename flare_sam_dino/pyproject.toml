@@ -1,0 +1,3 @@
+[tool.poetry.dependencies]
+segment-anything-py = "1.0"
+groundingdino-py = "0.4.0"

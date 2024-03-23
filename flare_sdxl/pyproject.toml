@@ -1,0 +1,3 @@
+[tool.poetry.dependencies]
+diffusers = "0.27.2"
+accelerate = "0.28.0"
