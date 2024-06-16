@@ -1,0 +1,6 @@
+[tool.poetry.dependencies]
+diffusers = "0.29.0"
+bitsandbytes = "0.43.1"
+accelerate = "0.31.0"
+sentencepiece = "0.2.0"
+protobuf = "5.27.1"
