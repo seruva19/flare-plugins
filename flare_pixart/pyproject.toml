@@ -1,0 +1,2 @@
+[tool.poetry.dependencies]
+diffusers = "0.29.0"
